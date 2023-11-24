@@ -9,9 +9,9 @@
 * 113134 Martín Zea
 * 114188 Nicolás Herrera 
 
-## Loguiarse para ingresar el Proyecto:
- Usuario: admin
- Contraseña: admin
+## Loguearse para ingresar el Proyecto:
+ * Usuario: admin
+ * Contraseña: admin
 
  ## Nota:
  Las butacas vendidas y cargadas en la base de datos corresponden a funciones cargadas que van desde 01/12/2022 hasta el 20/01/2023. Por lo tanto, en el reporte de películas más taquilleras agrupadas por mes y año las fechas a colocar para que den distintos reportes serian hasta el 31/12/2022 (las cuales le mostraran las películas más taquilleras en diciembre de 2022), si colocamos hasta una fecha posterior mostrara las películas más taquilleras de toda la base datos.
