@@ -249,10 +249,9 @@ namespace BackEnd.Datos.Implementacion
                 f.Horario.CantHora = int.Parse(fila[3].ToString());
                 f.FechaFuncion = DateTime.Parse(fila[4].ToString());
 
-                //if (f.FechaFuncion >= DateTime.Now)
-                //{
+
                     lFuncion.Add(f);
-                //}
+
 
             }
 
@@ -286,9 +285,6 @@ namespace BackEnd.Datos.Implementacion
             {
                 Butaca b = new Butaca();
 
-                //if (Convert.ToBoolean(fila["estado"]) == v)
-                //{
-
                 b.ButacaNro = int.Parse(fila["id_butaca"].ToString());
                 b.Descuento = int.Parse(fila["descuento_porcentaje"].ToString());
                 b.Precio = double.Parse(fila["precio_butaca"].ToString());
@@ -307,33 +303,14 @@ namespace BackEnd.Datos.Implementacion
 
                 lButacas.Add(b);
 
-                //}
-                //else if (v == true)
-                //{
-                //    b.ButacaNro = int.Parse(fila["id_butaca"].ToString());
-                //    b.Descuento = int.Parse(fila["descuento_porcentaje"].ToString());
-                //    b.Precio = double.Parse(fila["precio_butaca"].ToString());
-                //    b.Numero = Convert.ToInt32(fila["numero"]);
-                //    b.Estado = bool.Parse(fila["estado"].ToString());
-                //    b.Ticket = new Ticket();
-                //    b.Ticket.TicketNro = int.Parse(fila["id_ticket"].ToString());
-                //    b.Cliente = new TipoCliente();
-                //    b.Cliente.TipoNro = int.Parse(fila["id_tipo_cliente"].ToString());
-                //    b.EstadoReserva = new EstadoReserva();
-                //    b.EstadoReserva.NroReserva = int.Parse(fila["id_estado_reserva"].ToString());
-                //    b.Funcion = new Funcion();
-                //    b.Funcion.FuncionNro = int.Parse(fila["id_funcion"].ToString());
-                //    b.Sala = new Sala();
-                //    b.Sala.SalaNro = int.Parse(fila["id_sala"].ToString());
 
-                //    lButacas.Add(b);
             }
             return lButacas;
         }
 
         public bool VerificarLogin(string user, string password)
         {
-            //List<Butaca> lButacas = new List<Butaca>();
+
             string consultaSql = "SELECT * FROM Usuarios where usuario = '" + user + "' and pass = '" + password + "'";
             DataTable tabla = HelperDao.ObtenerInstancia().Sql(consultaSql);
             if (tabla.Rows.Count > 0)
@@ -346,24 +323,5 @@ namespace BackEnd.Datos.Implementacion
 
         }
 
-        //public bool EliminarPelicula(int id)
-        //{
-        //    bool resultado = true;
-        //    SqlConnection conexion = HelperDao.ObtenerInstancia().ObtenerConexion();
-
-        //    conexion.Open();
-        //    SqlCommand comando = new SqlCommand();
-        //    comando.Connection = conexion;
-        //    comando.Parameters.Add(new SqlParameter("@PeliculaNro", oPelicula.PeliculaNro));
-        //    comando.CommandType = CommandType.Text;
-        //    comando.CommandText = "DELETE FROM Peliculas WHERE id_pelicula = @PeliculaNro";
-        //    if (comando.ExecuteNonQuery() == 0)
-        //    {
-        //        resultado = false;
-        //    }
-
-        //    conexion.Close();
-        //    return resultado;
-        //}
     }
 }

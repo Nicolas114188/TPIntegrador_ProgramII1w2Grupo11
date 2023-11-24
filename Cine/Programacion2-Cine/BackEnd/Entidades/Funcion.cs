@@ -14,7 +14,7 @@ namespace BackEnd.Entidades
         public Horario Horario { get; set; }
         public DateTime FechaFuncion { get; set; }
 
-        //DANGER!!!, pero funciona by:messi
+        
         public string NombrePelicula
         {
             get

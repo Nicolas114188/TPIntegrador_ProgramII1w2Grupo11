@@ -30,10 +30,6 @@ namespace FrontEnd
             serv = new Servicio();
         }
 
-        //private async void frmFunciones_Load(object sender, EventArgs e)
-        //{
-        //}
-
         private void btnSalir_Click(object sender, EventArgs e)
         {
             if (MessageBox.Show("Esta seguro que desea salir?", "SALIENDO", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
@@ -79,7 +75,7 @@ namespace FrontEnd
                 {
                     MessageBox.Show("La funcion se ha cargado con exito", "Carga exitosa", MessageBoxButtons.OK, MessageBoxIcon.None);
                     await CargarListaFunciones();
-                    //Clean();
+
                     lstPeliculasEnCartelera.SelectedIndex = lstPeliculasEnCartelera.Items.Count - 1;
                     EnableNuevo(false);
                 }
@@ -91,12 +87,12 @@ namespace FrontEnd
             else
             {
                 int n = lstPeliculasEnCartelera.SelectedIndex;
-                //Pelicula p = (Pelicula)lstPeliculas.SelectedValue;
+
                 funcionNueva.FuncionNro = lFunciones[lstPeliculasEnCartelera.SelectedIndex].FuncionNro;
                 if (await EditarFucion(funcionNueva))
                 {
                     MessageBox.Show("La pelicula se ha editado con exito", "Edicion exitosa", MessageBoxButtons.OK, MessageBoxIcon.None);
-                    //Clean();
+
                     lstPeliculasEnCartelera.SelectedIndex = n;
                     EnableNuevo(false);
                     await CargarListaFunciones();
@@ -131,16 +127,7 @@ namespace FrontEnd
 
         private async void btnNuevo_Click(object sender, EventArgs e)
         {
-            //cboPeliculasActivas.Enabled = true;
-            //cboPeliculasActivas.SelectedIndex = -1;
-            //cboPeliculasActivas.DropDownStyle = ComboBoxStyle.DropDownList;
-            //await CargarComboPeliculas();
-            //dtpFecha.Value = DateTime.Now;
-            //cboHorario.SelectedIndex = -1;
-            //txtPrecio.Text = string.Empty;
-            //lstPeliculasEnCartelera.Enabled = false;
 
-            //lstPeliculasEnCartelera.SelectedIndex = -1;
             esNuevo = true;
             cboPeliculasActivas.DropDownStyle = ComboBoxStyle.DropDownList;
             Clean();
@@ -173,16 +160,8 @@ namespace FrontEnd
 
         private void lstPeliculasEnCartelera_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //Funcion funcion = (Funcion)lstPeliculasEnCartelera.SelectedItem;
             int i = lstPeliculasEnCartelera.SelectedIndex;
             CargarFormulario(i);
-            //if (lstPeliculasEnCartelera.SelectedIndex >= 0)
-            //{
-            //    cboPeliculasActivas.Text = lFunciones[i].Pelicula.Titulo;
-            //    txtPrecio.Text = lFunciones[i].Precio.ToString();
-            //    dtpFecha.Value = lFunciones[i].FechaFuncion;
-            //    cboHorario.SelectedValue = lFunciones[i].Horario.CantHora;
-            //}
         }
 
         private void CargarFormulario(int i)
@@ -218,14 +197,7 @@ namespace FrontEnd
             {
                 string url = "https://localhost:7132/api/Pelicula";
                 var result = await ClientSingleton.GetInstance().GetAsync(url);
-                lPeliculas = JsonConvert.DeserializeObject<List<Pelicula>>(result);
-                //foreach (Pelicula peli in lPeliculas)
-                //{
-                //    if (peli.EnCartelera == false)
-                //    {
-                //        lPeliculas.Remove(peli);
-                //    }
-                //}
+                lPeliculas = JsonConvert.DeserializeObject<List<Pelicula>>(result);  
                 cboPeliculasActivas.DataSource = lPeliculas;
                 cboPeliculasActivas.DisplayMember = "Titulo";
                 cboPeliculasActivas.ValueMember = "PeliculaNro";
@@ -240,7 +212,6 @@ namespace FrontEnd
 
             lFunciones = JsonConvert.DeserializeObject<List<Funcion>>(result);
             lstPeliculasEnCartelera.Items.Clear();
-            //lstPeliculasEnCartelera.DataSource = lFunciones;
 
             foreach (Funcion funcion in lFunciones)
             {
@@ -269,16 +240,6 @@ namespace FrontEnd
 
         private async void btnEditar_Click(object sender, EventArgs e)
         {
-            //Funcion funcion = (Funcion)lstPeliculasEnCartelera.SelectedItem;
-            //funcion.Pelicula = (Pelicula)cboPeliculasActivas.SelectedItem;
-            //funcion.FechaFuncion = dtpFecha.Value;
-            //funcion.Horario = (Horario)cboHorario.SelectedItem;
-            //funcion.Precio = Convert.ToDouble(txtPrecio.Text);
-
-            //string url = $"https://localhost:7132/api/funcion/{funcion.FuncionNro}";
-            //string funcionJson = JsonConvert.SerializeObject(funcion);
-            //var result = await ClientSingleton.GetInstance().PutAsync(url, funcionJson);
-
             esNuevo = false;
             Enable(true);
             cboPeliculasActivas.Focus();
@@ -286,7 +247,7 @@ namespace FrontEnd
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            //int n = lstPeliculas.Items.Count - 1;
+
             if (MessageBox.Show("Esta seguro que desea cancelar?", "Cancelar", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
                 EnableNuevo(false);
@@ -301,8 +262,7 @@ namespace FrontEnd
                     CargarFormulario(lstPeliculasEnCartelera.SelectedIndex);
 
                 }
-                //lstPeliculas.SelectedIndex = n;
-                //CargarFormulario(n);
+
             }
         }
 

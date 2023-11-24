@@ -93,6 +93,7 @@
             btnConfirmar = new Button();
             label4 = new Label();
             cboButaca = new ComboBox();
+            label5 = new Label();
             ((System.ComponentModel.ISupportInitialize)dgvButaca).BeginInit();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -679,6 +680,7 @@
             // 
             // btnPagar
             // 
+            btnPagar.Enabled = false;
             btnPagar.Location = new Point(553, 574);
             btnPagar.Name = "btnPagar";
             btnPagar.Size = new Size(88, 54);
@@ -746,6 +748,16 @@
             cboButaca.TabIndex = 8;
             cboButaca.SelectedIndexChanged += cboButaca_SelectedIndexChanged;
             // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.BackColor = Color.Transparent;
+            label5.Location = new Point(174, 256);
+            label5.Name = "label5";
+            label5.Size = new Size(17, 15);
+            label5.TabIndex = 67;
+            label5.Text = "%";
+            // 
             // frmTiket
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -753,6 +765,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(814, 658);
             ControlBox = false;
+            Controls.Add(label5);
             Controls.Add(cboButaca);
             Controls.Add(label4);
             Controls.Add(btnConfirmar);
@@ -860,5 +873,6 @@
         private ComboBox cboButaca;
         private TextBox txtTotal;
         private TextBox txtSubTotal;
+        private Label label5;
     }
 }

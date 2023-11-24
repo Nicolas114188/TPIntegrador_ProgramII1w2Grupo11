@@ -12,21 +12,21 @@
           "Newtonsoft.Json": "13.0.3",
           "ReportViewerCore.NETCore": "15.1.19",
           "ReportViewerCore.WinForms": "15.1.19",
-          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.18362.29"
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.18362.31"
         },
         "runtime": {
           "FrontEnd.dll": {}
         }
       },
-      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.29": {
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.31": {
         "runtime": {
           "Microsoft.Windows.SDK.NET.dll": {
             "assemblyVersion": "10.0.18362.24",
-            "fileVersion": "10.0.18362.29"
+            "fileVersion": "10.0.18362.31"
           },
           "WinRT.Runtime.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.3.42921"
+            "fileVersion": "2.0.4.44211"
           }
         }
       },
@@ -314,7 +314,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.29": {
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.31": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""

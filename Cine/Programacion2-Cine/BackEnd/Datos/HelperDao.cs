@@ -12,9 +12,8 @@ namespace BackEnd.Datos
     {
         private static HelperDao Instancia;
         private SqlConnection Conexion;
-        //private string CadenaConexion = @"Data Source=Notebook\SQLEXPRESS;Initial Catalog=db_cine;Integrated Security=True";
-        //private string CadenaConexion = "Data Source=DESKTOP-EFSR2D9\\SQLEXPRESS;Initial Catalog=db_cine;Integrated Security=True";
-        private string CadenaConexion= @"Data Source=DESKTOP-B2KQT83\SQLEXPRESS;Initial Catalog=db_cine;Integrated Security=True";
+        private string CadenaConexion = @"Data Source=.;Initial Catalog=db_cine;Integrated Security=True";
+
 
         public HelperDao()
         {

@@ -22,6 +22,6 @@ namespace BackEnd.Datos.interfaz
         List<Funcion> ObtenerFunciones();
         List<Butaca> ObtenerButacas(int i);
         bool VerificarLogin(string user, string password);
-        //bool EliminarPelicula(Pelicula oPelicula);
+
     }
 }

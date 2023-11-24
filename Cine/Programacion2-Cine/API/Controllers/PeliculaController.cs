@@ -92,28 +92,7 @@ namespace API.Controllers
 
         // POST api/<PeliculaController>
         [HttpPost]
-        //public IActionResult PostPelicula(Pelicula pelicula)
-        //{
-        //    try
-        //    {
-        //        if (pelicula == null)
-        //        {
-        //            return BadRequest("Datos de pelicula incorrectos!");
-        //        }
-        //        if (dataApi.PostPelicula(pelicula))
-        //        {
-        //            return Ok(pelicula); //el postpelicula devuelve booleano :S
-        //        }
-        //        else
-        //        {
-        //            return NotFound("No se pudo guardar la pelicula");
-        //        }
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        return StatusCode(500, "Error interno! Intente luego");
-        //    }
-        //}
+        
 
         public IActionResult PostPelicula(Pelicula pelicula)
         {
@@ -155,28 +134,7 @@ namespace API.Controllers
             }
         }
 
-        //DELETE api/<PeliculaController>/5
-        //[HttpDelete("{id}")]
-        //public IActionResult Delete(int id)
-        //{
-        //    try
-        //    {
-        //        //bool deleteResult = dataApi.DeletePelicula(id);
-
-        //        //if (deleteResult)
-        //        //{
-        //        //    return Ok();
-        //        //}
-        //        //else
-        //        //{
-        //        //    return NotFound();
-        //        //}
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        return StatusCode(500, "Error interno! Intente luego");
-        //    }
-        //}
+        
 
 
     }

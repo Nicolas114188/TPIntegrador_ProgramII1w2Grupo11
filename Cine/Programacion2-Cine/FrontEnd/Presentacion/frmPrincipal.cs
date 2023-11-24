@@ -53,7 +53,7 @@ namespace FrontEnd
             string url = $"https://localhost:7132/api/Login?user={u}&password={p}";
             var result = await ClientSingleton.GetInstance().GetAsync(url);
             string check = JsonConvert.DeserializeObject<string>(result);
-            //MessageBox.Show(result.ToString());
+
             if (check == "true")
             {
                 menuStrip1.Enabled = true;
@@ -72,19 +72,6 @@ namespace FrontEnd
 
         private async void button2_Click(object sender, EventArgs e)
         {
-            //if (txt_usuario.Text == "admin" && txt_contra.Text == "admin")
-            //{
-            //    menuStrip1.Enabled = true;
-            //    txt_usuario.Enabled = false;
-            //    txt_contra.Enabled = false;
-            //    btnEntrar.Enabled = false;
-            //}
-            //else
-            //{
-            //    txt_usuario.Text = string.Empty;
-            //    txt_contra.Text = string.Empty;
-            //    MessageBox.Show("Usuario o contraseña incorrectos", "Login error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            //}
             await LoginCheck(txt_usuario.Text, txt_contra.Text);
         }
 

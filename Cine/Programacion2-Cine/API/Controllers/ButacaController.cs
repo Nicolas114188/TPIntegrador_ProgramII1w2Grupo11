@@ -36,11 +36,8 @@ namespace API.Controllers
         }
 
             // GET api/<ButacaController>/5
-            [HttpGet("{id}")]
-        //public string Get(int id)
-        //{
-        //    return "value";
-        //}
+       [HttpGet("{id}")]
+
 
         // POST api/<ButacaController>
         [HttpPost]

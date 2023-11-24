@@ -22,20 +22,29 @@ namespace FrontEnd.Reporte
         private void frmReporte_Load(object sender, EventArgs e)
         {
             reportViewer1.LocalReport.ReportEmbeddedResource = "FrontEnd.Reporte.Report1.rdlc";
-            reportViewer1.LocalReport.ReportPath = @"C:\Users\Usuario\Desktop\cine_5\Cine\Programacion2-Cine\FrontEnd\Reporte\Report1.rdlc";
+            reportViewer1.LocalReport.ReportPath = @"D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\Reporte\Report1.rdlc";
         }
 
         private void btnGenerar_Click(object sender, EventArgs e)
         {
-            List<Parametro> lst = new List<Parametro>();
-            lst.Add(new Parametro("@fecha_inicio", dtpFechaInicio.Value));
-            lst.Add(new Parametro("@fecha_fin", dtpFechaFin.Value));
-            DataTable tabla = HelperDao.ObtenerInstancia().ConsultarProcedureFiltro("SP_TAQUILLERAS", lst);
+            if (dtpFechaInicio.Value < dtpFechaFin.Value)
+            {
+                List<Parametro> lst = new List<Parametro>();
+                lst.Add(new Parametro("@fecha_inicio", dtpFechaInicio.Value));
+                lst.Add(new Parametro("@fecha_fin", dtpFechaFin.Value));
+                DataTable tabla = HelperDao.ObtenerInstancia().ConsultarProcedureFiltro("SP_TAQUILLERAS", lst);
 
-            reportViewer1.LocalReport.DataSources.Add(new ReportDataSource("DataSet1", HelperDao.ObtenerInstancia().ConsultarProcedureFiltro("SP_TAQUILLERAS", lst)));
+                reportViewer1.LocalReport.DataSources.Add(new ReportDataSource("DataSet1", HelperDao.ObtenerInstancia().ConsultarProcedureFiltro("SP_TAQUILLERAS", lst)));
 
 
-            reportViewer1.RefreshReport();
+                reportViewer1.RefreshReport();
+            }
+            else
+            {
+                MessageBox.Show("la fecha de inicio no puede ser superior a la fecha fin", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                dtpFechaInicio.Focus();
+            }
+           
         }
     }
 }

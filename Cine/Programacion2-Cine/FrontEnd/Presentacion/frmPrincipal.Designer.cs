@@ -95,7 +95,7 @@
             btnEntrar.Margin = new Padding(3, 2, 3, 2);
             btnEntrar.Name = "btnEntrar";
             btnEntrar.Size = new Size(97, 32);
-            btnEntrar.TabIndex = 4;
+            btnEntrar.TabIndex = 2;
             btnEntrar.Text = "Entrar";
             btnEntrar.UseVisualStyleBackColor = true;
             btnEntrar.Click += button2_Click;
@@ -106,7 +106,7 @@
             txt_contra.Margin = new Padding(3, 2, 3, 2);
             txt_contra.Name = "txt_contra";
             txt_contra.Size = new Size(178, 23);
-            txt_contra.TabIndex = 3;
+            txt_contra.TabIndex = 1;
             // 
             // txt_usuario
             // 
@@ -114,7 +114,7 @@
             txt_usuario.Margin = new Padding(3, 2, 3, 2);
             txt_usuario.Name = "txt_usuario";
             txt_usuario.Size = new Size(178, 23);
-            txt_usuario.TabIndex = 2;
+            txt_usuario.TabIndex = 0;
             txt_usuario.TextChanged += txt_usuario_TextChanged;
             // 
             // label2
@@ -160,14 +160,14 @@
             // nuevaToolStripMenuItem
             // 
             nuevaToolStripMenuItem.Name = "nuevaToolStripMenuItem";
-            nuevaToolStripMenuItem.Size = new Size(147, 22);
+            nuevaToolStripMenuItem.Size = new Size(180, 22);
             nuevaToolStripMenuItem.Text = "Ver Peliculas";
             nuevaToolStripMenuItem.Click += nuevaToolStripMenuItem_Click;
             // 
             // buscarToolStripMenuItem
             // 
             buscarToolStripMenuItem.Name = "buscarToolStripMenuItem";
-            buscarToolStripMenuItem.Size = new Size(147, 22);
+            buscarToolStripMenuItem.Size = new Size(180, 22);
             buscarToolStripMenuItem.Text = "Ver Funciones";
             buscarToolStripMenuItem.Click += buscarToolStripMenuItem_Click;
             // 
@@ -181,8 +181,8 @@
             // nuevaToolStripMenuItem1
             // 
             nuevaToolStripMenuItem1.Name = "nuevaToolStripMenuItem1";
-            nuevaToolStripMenuItem1.Size = new Size(110, 22);
-            nuevaToolStripMenuItem1.Text = "Vender";
+            nuevaToolStripMenuItem1.Size = new Size(105, 22);
+            nuevaToolStripMenuItem1.Text = "Ticket";
             nuevaToolStripMenuItem1.Click += nuevaToolStripMenuItem1_Click;
             // 
             // reporteToolStripMenuItem
@@ -195,8 +195,8 @@
             // generarUnReporteToolStripMenuItem
             // 
             generarUnReporteToolStripMenuItem.Name = "generarUnReporteToolStripMenuItem";
-            generarUnReporteToolStripMenuItem.Size = new Size(176, 22);
-            generarUnReporteToolStripMenuItem.Text = "Generar un Reporte";
+            generarUnReporteToolStripMenuItem.Size = new Size(202, 22);
+            generarUnReporteToolStripMenuItem.Text = "Peliculas mas taquilleras";
             generarUnReporteToolStripMenuItem.Click += generarUnReporteToolStripMenuItem_Click;
             // 
             // acercaDeToolStripMenuItem
@@ -210,7 +210,7 @@
             // integrantesToolStripMenuItem
             // 
             integrantesToolStripMenuItem.Name = "integrantesToolStripMenuItem";
-            integrantesToolStripMenuItem.Size = new Size(133, 22);
+            integrantesToolStripMenuItem.Size = new Size(180, 22);
             integrantesToolStripMenuItem.Text = "Integrantes";
             integrantesToolStripMenuItem.Click += integrantesToolStripMenuItem_Click;
             // 

@@ -448,7 +448,7 @@ begin
  join Funciones f on f.id_funcion=b.id_funcion
  join Peliculas p on p.id_pelicula=f.id_pelicula
  join Tickets t on t.id_ticket=b.id_ticket
-where b.estado = 1
+where b.estado = 1 and f.fecha_funcion between @fecha_inicio and @fecha_fin
  group by YEAR(f.fecha_funcion), MONTH(f.fecha_funcion), titulo
  order by COUNT(b.estado) desc
 end;
@@ -6786,4 +6786,14 @@ INSERT INTO Butacas VALUES (0, 1684, 29, 0, 1213, 3, 2, 150, 1);
 INSERT INTO Butacas VALUES (17, 1684, 30, 1, 1214, 2, 3, 150, 1);
 INSERT INTO Butacas VALUES (16, 1684, 31, 1, 1215, 3, 3, 150, 1);
 INSERT INTO Butacas VALUES (0, 1684, 32, 0, 1215, 3, 1, 150, 1);
+GO
+
+create table Usuarios
+(
+usuario nvarchar(20),
+pass nvarchar(20)
+constraint PK_Login primary key (usuario)
+)
+GO
+INSERT INTO Usuarios VALUES ('admin','admin')
 GO

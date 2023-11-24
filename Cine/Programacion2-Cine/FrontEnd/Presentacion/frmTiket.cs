@@ -80,13 +80,7 @@ namespace FrontEnd
             string url = $"https://localhost:7132/api/Butaca?i={i}";
             var result = await ClientSingleton.GetInstance().GetAsync(url);
             lButacas = JsonConvert.DeserializeObject<List<Butaca>>(result);
-            //foreach (Pelicula peli in lPeliculas)
-            //{
-            //    if (peli.EnCartelera == false)
-            //    {
-            //        lPeliculas.Remove(peli);
-            //    }
-            //}
+
             if (lButacas != null)
             {
                 foreach (Butaca b in lButacas)
@@ -95,8 +89,6 @@ namespace FrontEnd
                 }
             }
             cboButaca.DataSource = lFull;
-            //cboButaca.DisplayMember = "Numero";
-            //cboButaca.ValueMember = "ButacaNro";
             cboButaca.SelectedIndex = -1;
         }
 
@@ -286,24 +278,18 @@ namespace FrontEnd
             butaca.Cliente = (TipoCliente)cboCliente.SelectedItem;
             butaca.Funcion = (Funcion)cboFunciones.SelectedItem;
             butaca.Descuento = Convert.ToInt32(txtDescuento.Text);
-            // a modo ejemplo sala es 1 con capacidad de 32 butaca
+
             Sala sala = new Sala();
             sala.SalaNro = 1;
             butaca.Sala = new Sala();
             butaca.Sala.SalaNro = sala.SalaNro;
-            //tiene sentido crear una sala
-            //sala.Descripcion = "Sala 1";
-            //sala.Capacidad = 32;
-            //if (butaca.Cliente.ClienteNombre == "Menor" || butaca.Cliente.ClienteNombre == "Jubilado")
-            //{
-            //    butaca.Descuento = 50;
-            //    butaca.Precio = butaca.Precio * 0.5;
-            //}
+
             ticket.AgregarButaca(butaca);
             dgvButaca.Rows.Add(new object[] { butaca.Funcion.Pelicula.Titulo, txtTurno.Text, butaca.Numero, butaca.Precio, butaca.Descuento, "Quitar" });
             CalcularSubTotal();
             CalcularTotal();
             cboFunciones.Enabled = false;
+            btnPagar.Enabled = true;
         }
 
         private async void btnPagar_Click_1(object sender, EventArgs e)
@@ -322,7 +308,9 @@ namespace FrontEnd
                 MessageBox.Show("La Operacion se realizo con exito", "Control", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 Clean();
                 ticket.VaciarButacas();
+                btnPagar.Enabled = false;
                 return;
+
             }
             else
             {
@@ -355,16 +343,7 @@ namespace FrontEnd
 
         private void dgvButaca_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
         {
-            //if (dgvButaca.CurrentCell.ColumnIndex == 5 && dgvButaca.CurrentCell.RowIndex !=0 ||(dgvButaca.CurrentCell.ColumnIndex == 5 && dgvButaca.CurrentCell.RowIndex != dgvButaca.Rows.Count -1 ))
-            //{
-            //    ticket.QuitarButaca(dgvButaca.CurrentRow.Index);
-            //    dgvButaca.Rows.RemoveAt(dgvButaca.CurrentRow.Index);
 
-            //    if (dgvButaca.Rows.Count == 1)
-            //    {
-            //        cboFunciones.Enabled = true;
-            //    }
-            //}
             {
                 if (e.RowIndex >= 0 && e.ColumnIndex == dgvButaca.Columns["ColQuitar"].Index)
                 {
@@ -376,6 +355,7 @@ namespace FrontEnd
                         CalcularTotal();
                         if (ticket.listBuataca.Count == 0)
                         {
+                            btnPagar.Enabled = false;
                             cboFunciones.Enabled = true;
                         }
                     }
@@ -385,8 +365,7 @@ namespace FrontEnd
 
         private void cboFunciones_MouseHover(object sender, EventArgs e)
         {
-            // Funcion f = (Funcion)cboFunciones.MouseHover;
-            //dtpFechaActual.Value = f.FechaFuncion;
+
         }
     }
 }

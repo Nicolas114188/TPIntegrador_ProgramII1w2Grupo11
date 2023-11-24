@@ -92,7 +92,7 @@ namespace API.Controllers
                 {
                     return StatusCode(400, "Error en la carga.");
                 }
-                //return Ok(dataApi.PostPelicula(pelicula)); //el postpelicula devuelve booleano :S
+
             }
             catch (Exception ex)
             {

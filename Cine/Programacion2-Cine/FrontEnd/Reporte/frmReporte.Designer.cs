@@ -28,86 +28,83 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.dtpFechaInicio = new System.Windows.Forms.DateTimePicker();
-            this.dtpFechaFin = new System.Windows.Forms.DateTimePicker();
-            this.btnGenerar = new System.Windows.Forms.Button();
-            this.SuspendLayout();
+            reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
+            label1 = new Label();
+            label2 = new Label();
+            dtpFechaInicio = new DateTimePicker();
+            dtpFechaFin = new DateTimePicker();
+            btnGenerar = new Button();
+            SuspendLayout();
             // 
             // reportViewer1
             // 
-            this.reportViewer1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.reportViewer1.Location = new System.Drawing.Point(10, 60);
-            this.reportViewer1.Name = "ReportViewer";
-            this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(550, 430);
-            this.reportViewer1.TabIndex = 0;
+            reportViewer1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            reportViewer1.Location = new Point(10, 60);
+            reportViewer1.Name = "ReportViewer";
+            reportViewer1.ServerReport.BearerToken = null;
+            reportViewer1.Size = new Size(550, 430);
+            reportViewer1.TabIndex = 0;
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 28);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(76, 15);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Fecha Desde:";
+            label1.AutoSize = true;
+            label1.Location = new Point(12, 28);
+            label1.Name = "label1";
+            label1.Size = new Size(76, 15);
+            label1.TabIndex = 1;
+            label1.Text = "Fecha Desde:";
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(270, 28);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(74, 15);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Fecha Hasta:";
+            label2.AutoSize = true;
+            label2.Location = new Point(270, 28);
+            label2.Name = "label2";
+            label2.Size = new Size(74, 15);
+            label2.TabIndex = 2;
+            label2.Text = "Fecha Hasta:";
             // 
             // dtpFechaInicio
             // 
-            this.dtpFechaInicio.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpFechaInicio.Location = new System.Drawing.Point(94, 22);
-            this.dtpFechaInicio.Name = "dtpFechaInicio";
-            this.dtpFechaInicio.Size = new System.Drawing.Size(97, 23);
-            this.dtpFechaInicio.TabIndex = 3;
+            dtpFechaInicio.Format = DateTimePickerFormat.Short;
+            dtpFechaInicio.Location = new Point(94, 22);
+            dtpFechaInicio.Name = "dtpFechaInicio";
+            dtpFechaInicio.Size = new Size(97, 23);
+            dtpFechaInicio.TabIndex = 3;
             // 
             // dtpFechaFin
             // 
-            this.dtpFechaFin.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpFechaFin.Location = new System.Drawing.Point(350, 22);
-            this.dtpFechaFin.Name = "dtpFechaFin";
-            this.dtpFechaFin.Size = new System.Drawing.Size(97, 23);
-            this.dtpFechaFin.TabIndex = 4;
+            dtpFechaFin.Format = DateTimePickerFormat.Short;
+            dtpFechaFin.Location = new Point(350, 22);
+            dtpFechaFin.Name = "dtpFechaFin";
+            dtpFechaFin.Size = new Size(97, 23);
+            dtpFechaFin.TabIndex = 4;
             // 
             // btnGenerar
             // 
-            this.btnGenerar.Location = new System.Drawing.Point(483, 19);
-            this.btnGenerar.Name = "btnGenerar";
-            this.btnGenerar.Size = new System.Drawing.Size(75, 32);
-            this.btnGenerar.TabIndex = 5;
-            this.btnGenerar.Text = "Generar";
-            this.btnGenerar.UseVisualStyleBackColor = true;
-            this.btnGenerar.Click += new System.EventHandler(this.btnGenerar_Click);
+            btnGenerar.Location = new Point(483, 19);
+            btnGenerar.Name = "btnGenerar";
+            btnGenerar.Size = new Size(75, 32);
+            btnGenerar.TabIndex = 5;
+            btnGenerar.Text = "Generar";
+            btnGenerar.UseVisualStyleBackColor = true;
+            btnGenerar.Click += btnGenerar_Click;
             // 
             // frmReporte
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(570, 496);
-            this.Controls.Add(this.btnGenerar);
-            this.Controls.Add(this.dtpFechaFin);
-            this.Controls.Add(this.dtpFechaInicio);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.reportViewer1);
-            this.Name = "frmReporte";
-            this.Text = "Reporte";
-            this.Load += new System.EventHandler(this.frmReporte_Load);
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(570, 496);
+            Controls.Add(btnGenerar);
+            Controls.Add(dtpFechaFin);
+            Controls.Add(dtpFechaInicio);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Controls.Add(reportViewer1);
+            Name = "frmReporte";
+            Text = "Reporte";
+            Load += frmReporte_Load;
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

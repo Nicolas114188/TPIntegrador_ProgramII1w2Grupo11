@@ -19,20 +19,17 @@ namespace FrontEnd
 {
     public partial class ABM : Form
     {
-        //Pelicula peliculaNueva;
+
         IServicio servicio = null;
         List<Pelicula> lPeliculas;
-        //List<Genero> lGeneros;
-        //List<Idioma> lIdiomas;
+
         bool esNuevo = true;
         public ABM(FabricaServicios fabrica)
         {
             InitializeComponent();
             servicio = fabrica.CrearServicio();
             lPeliculas = new List<Pelicula>();
-            //lGeneros = new List<Genero>();
-            //lIdiomas = new List<Idioma>();
-            //peliculaNueva = new Pelicula();
+
 
         }
 
@@ -89,7 +86,6 @@ namespace FrontEnd
 
 
 
-            //guardarpelicula
             Genero g = (Genero)cboGenero.SelectedItem;
             Idioma i = (Idioma)cboIdioma.SelectedItem;
             string Titulo = txtTitulo.Text;
@@ -98,7 +94,7 @@ namespace FrontEnd
             Idioma Idioma = i;
 
             Pelicula peliculaNueva = new Pelicula(Titulo, Duracion, Genero, Idioma);
-            //string bodyContent = JsonConvert.SerializeObject(peliculaNueva);
+
             peliculaNueva.EnCartelera = true;
 
             if (esNuevo)
@@ -119,13 +115,13 @@ namespace FrontEnd
             else
             {
                 int n = lstPeliculas.SelectedIndex;
-                //Pelicula p = (Pelicula)lstPeliculas.SelectedValue;
+
                 peliculaNueva.PeliculaNro = lPeliculas[lstPeliculas.SelectedIndex].PeliculaNro;
                 if (await EditarPelicula(peliculaNueva))
                 {
                     MessageBox.Show("La pelicula se ha editado con exito", "Edicion exitosa", MessageBoxButtons.OK, MessageBoxIcon.None);
                     await CargarTabla();
-                    //Clean();
+
                     lstPeliculas.SelectedIndex = n;
                     EnableNuevo(false);
                 }
@@ -174,18 +170,6 @@ namespace FrontEnd
             {
                 MessageBox.Show("La pelicula se ha eliminado con exito", "Eliminacion exitosa", MessageBoxButtons.OK, MessageBoxIcon.None);
                 await CargarTabla();
-                //Clean();
-                //btnGrabar.Enabled = false;
-                //txtTitulo.Enabled = false;
-                //txtDuracion.Enabled = false;
-                //cboGenero.Enabled = false;
-                //cboIdioma.Enabled = false;
-                //cboxSi.Enabled = false;
-                //cboxNo.Enabled = false;
-                //btnGrabar.Enabled = false;
-                //btnNuevo.Enabled = true;
-                //btnEditar.Enabled = true;
-                //btnEliminar.Enabled = false;
                 lstPeliculas.SelectedIndex = lstPeliculas.Items.Count - 1;
                 EnableNuevo(false);
             }
@@ -296,13 +280,7 @@ namespace FrontEnd
         private void btnEditar_Click(object sender, EventArgs e)
         {
             esNuevo = false;
-            //Clean();
-            //Enabled(false);
             EnableNuevo(true);
-            //if (lstPeliculas.Items.Count > 0)
-            //{
-            //    lstPeliculas.SelectedIndex = -1;
-            //}
             txtTitulo.Focus();
 
         }
@@ -339,7 +317,6 @@ namespace FrontEnd
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            //int n = lstPeliculas.Items.Count - 1;
             if (MessageBox.Show("Esta seguro que desea cancelar?", "Cancelar", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
                 EnableNuevo(false);
@@ -353,8 +330,7 @@ namespace FrontEnd
                     CargarFormulario(lstPeliculas.SelectedIndex);
 
                 }
-                //lstPeliculas.SelectedIndex = n;
-                //CargarFormulario(n);
+
             }
         }
     }
