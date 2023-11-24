@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\BackEnd\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

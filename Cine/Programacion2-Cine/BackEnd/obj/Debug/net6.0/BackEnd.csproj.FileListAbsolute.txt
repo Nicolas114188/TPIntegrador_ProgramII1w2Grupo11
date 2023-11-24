@@ -248,3 +248,17 @@ C:\Users\Usuario\Desktop\cine_5\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0
 C:\Users\Usuario\Desktop\cine_5\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
 C:\Users\Usuario\Desktop\cine_5\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.pdb
 C:\Users\Usuario\Desktop\cine_5\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\bin\Debug\net6.0\BackEnd.dll
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.dll
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+C:\Users\Usuario\Desktop\TPIntegrador_ProgramII1w2Grupo11\Cine\Programacion2-Cine\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll

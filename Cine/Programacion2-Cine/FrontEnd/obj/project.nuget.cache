@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A2WX1P4/2LZN9bEGuU5tudNEdnKo7eUPUJLtk7mcENdZ62QdkyAEown7uP7s4GQwnn1XqfIXM5wplfgU3nQUzg==",
+  "dgSpecHash": "1V4+ka8vHhidu727sdcJ7dIj5MIokH7aGVRwjzoo8X/GtCb3NJ8BV/fxeY4mgDT64d/yrccLwWZpy0HfdzPajg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.0\\microsoft.codeanalysis.common.4.0.0.nupkg.sha512",

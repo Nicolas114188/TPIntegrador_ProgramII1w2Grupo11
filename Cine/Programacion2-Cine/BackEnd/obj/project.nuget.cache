@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I5BzbQHANX3pajHuNemHtj50L+KR+U29RnCUTgB4HsjfNM/5fpi/2NPFpLoFShZgHa1aF/fWIFKyRjRgvPKCOg==",
+  "dgSpecHash": "nlr3tMfDKr/viS6Hie5Dywt55YP+ggTxg1tjd7GBohCWQ1vdlcYW866ppZJSV++c43KFC4R4W5t38KFHB+Fb7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

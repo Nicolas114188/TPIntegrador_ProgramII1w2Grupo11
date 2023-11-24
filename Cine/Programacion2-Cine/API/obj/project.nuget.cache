@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JMc0fWsSdQNXJb6jWzGPNpgExgRaacM+qu4RmgFigN8WbKYsL+wwDwiZMhKLMWUBnAglDMx3uV6LWAy/QEJqjQ==",
+  "dgSpecHash": "/piOQHk/hn+uJhZXsH9rsEUzzr1GpKbhhDdMFI8Hznhvgd7Bk2orTnkIZejZsRsFk/kMbz1qwJx3cQX8t1Qd9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\cine_5\\Cine\\Programacion2-Cine\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\TPIntegrador_ProgramII1w2Grupo11\\Cine\\Programacion2-Cine\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
