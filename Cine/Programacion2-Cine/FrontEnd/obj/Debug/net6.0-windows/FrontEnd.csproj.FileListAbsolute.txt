@@ -1,0 +1,343 @@
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Form1.resources
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine-main\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.pdb
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\ba_cr\OneDrive\Escritorio\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Cine-noFunciona\Cine-modif\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\TPI\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Cine314\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.dll
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\bin\Debug\net6.0-windows\BackEnd.pdb
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.ABM.resources
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmFunciones.resources
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmPrincipal.resources
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.frmTiket.resources
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+D:\SILVIA\Escritorio\-\Programacion\Cine\Programacion2-Cine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
